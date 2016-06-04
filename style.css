@@ -1,0 +1,33 @@
+img {
+	width: auto;
+	float: left;
+	padding-top: 0;
+	padding-right: 10px;
+	padding-bottom: 30px;
+	padding-left: 10px;
+}
+
+p {
+	padding: 0;
+	padding-left: 10px;
+}
+
+.item {
+	float: left;
+	margin: 0;
+	padding: 0;
+}
+
+#sport-form {
+	padding: 10px;
+}
+
+.sport {
+	margin: 10px;
+}
+/*
+#addSport {
+	margin-top: 10px;
+	float: left;
+
+}*/
